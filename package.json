@@ -1,0 +1,22 @@
+{
+  "name": "bookquotes",
+  "version": "1.0.0",
+  "description": "Collection of people's favorite quotes from books around the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opentek-Org/bookquotes.git"
+  },
+  "keywords": [
+    "literature"
+  ],
+  "author": "Anirudh Panda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Opentek-Org/bookquotes/issues"
+  },
+  "homepage": "https://github.com/Opentek-Org/bookquotes#readme"
+}
