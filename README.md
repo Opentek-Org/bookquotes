@@ -87,6 +87,10 @@ console.log("From the book - " + myLine.book);
 
  **[Add Lines from your Favorite Books](https://github.com/Opentek-Org/bookquotes/issues/1)** (Recommended for beginners)
 
+ ### Follow the JSON format and add your content in [data](https://github.com/Opentek-Org/bookquotes/blob/main/data/data.json) file.
+
+> Please check HOW TO CONTRIBUTE **[here](CONTRIBUTING.md)**!
+
 ## License
 
 
