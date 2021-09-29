@@ -2,7 +2,7 @@
 
 [![NPM VERSION](http://img.shields.io/npm/v/bookquotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/bookquotes) [![GitHub license](https://img.shields.io/github/license/Opentek-Org/bookquotes.svg?style=flat&logo=github)](https://github.com/Opentek-Org/bookquotes/blob/main/LICENSE) [![NPM MODULE](http://img.shields.io/badge/bookquotes-orange.svg?style=flat&logo=node.js)](https://github.com/Opentek-Org/bookquotes) [![npm collaborators](https://img.shields.io/npm/collaborators/bookquotes.svg?logo=npm)](https://www.npmjs.com/package/bookquotes) [![GitHub issues](https://img.shields.io/github/issues/Opentek-Org/bookquotes.svg?logo=github)](https://www.npmjs.com/package/bookquotes)
 
-#### A simple [NPM](https://www.npmjs.com/package/bookquotes) Package which returns random **Quotes** from a book. It provides great and aesthetic quotes to display in your application.
+#### A simple [NPM](https://www.npmjs.com/package/bookquotes) Package which returns random **Lines** from people's favorite book with names of the **author** as well as the **book** . It provides great and aesthetic quotes to display in your application.
 #### If you like to read books or literature this package is for you!
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Opentek-Org/bookquotes.svg?logo=github&style=social)](https://www.npmjs.com/package/bookquotes) [![npm](https://img.shields.io/npm/dy/bookquotes.svg?logo=npm&style=social)](https://www.npmjs.com/package/bookquotes) [![GitHub top language](https://img.shields.io/github/languages/top/Opentek-Org/bookquotes.svg?logo=javascript&logoColor=yellow&style=social)]() 
@@ -93,3 +93,5 @@ console.log("From the book - " + myLine.book);
 [![GitHub license](https://img.shields.io/github/license/Opentek-Org/bookquotes.svg?style=social&logo=github)](https://github.com/Opentek-Org/bookquotes/blob/main/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/anirudhpandaaa.svg?style=social)](https://twitter.com/anirudhpandaaa) [![GitHub followers](https://img.shields.io/github/followers/AnirudhPanda.svg?label=Follow&style=social)](https://github.com/AnirudhPanda/)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
+Inspired by [this](https://github.com/vinitshahdeo/inspirational-quotes) project
