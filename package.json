@@ -11,7 +11,12 @@
     "url": "git+https://github.com/Opentek-Org/bookquotes.git"
   },
   "keywords": [
-    "literature"
+    "literature",
+    "books",
+    "quotes",
+    "aesthetic",
+    "captions",
+    "philosophy"
   ],
   "author": "Anirudh Panda",
   "license": "MIT",
