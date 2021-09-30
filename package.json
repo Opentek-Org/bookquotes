@@ -29,6 +29,6 @@
   },
   "jest": {
     "verbose": true,
-    "testRegex": "/__tests__/index.js"
+    "testRegex": "/__tests__/index.spec.js"
   }
 }
