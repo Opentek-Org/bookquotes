@@ -76,7 +76,7 @@ console.log(Line.getLine('isp'));
 
 ```
 
- ###Type codes
+ ### Type codes
 
      * 'isp' = inspire
 
