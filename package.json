@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Opentek-Org/bookquotes/issues"
   },
-  "homepage": "https://github.com/Opentek-Org/bookquotes#readme"
+  "homepage": "https://github.com/Opentek-Org/bookquotes#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
 }
