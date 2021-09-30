@@ -56,11 +56,11 @@ $ npm install bookquotes
 
 ```js
 
-const Line = require('bookquotes');
+const Line = require("bookquotes");
 
-console.log(Line.getRandomLine());
+console.log(Line.getRandomLine()); // generates a single line
 
-console.log(Line.getLine());
+console.log(Line.getLines()); // generates an object having a line, name of book and author.
 
 ```
 - ***testing*** the package!
