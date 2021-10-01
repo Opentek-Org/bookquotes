@@ -70,7 +70,9 @@ console.log(Line.getLine('isp'));
 
 - **_Type codes_**
 
-     1. 'isp' = inspire
+     ~~~
+     'isp' = inspire
+     ~~~
      
 
 - **_testing_** the package!
