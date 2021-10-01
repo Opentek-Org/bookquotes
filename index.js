@@ -7,7 +7,7 @@ function randomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
 
-module.exports.getRandomLines = function () {
+module.exports.getRandomLine = function () {
   let index = randomInt(0, array.length);
    switch(type){
     case 'isp' : 
