@@ -156,7 +156,12 @@
   },
   {
     "line": "The great thing about this life of ours is that you can be someone different to everybody.",
-    "book":"All the Bright Places",
+    "book": "All the Bright Places",
     "author": "Jennifer Niven"
+  },
+  {
+    "line": "The moment you doubt whether you can fly, you cease for ever to be able to do it.",
+    "book": "Peter Pan",
+    "author": "J.M. Barrie"
   }
 ]
