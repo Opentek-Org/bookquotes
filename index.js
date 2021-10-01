@@ -4,7 +4,7 @@ let inspireArray = require("./data/inspire.json");
 let favline = {};
 
 function randomInt(min, max) {
-  return Math.floor(Math.random() * (max - min + 1) + min);
+  return Math.floor(Math.random() * (max - min) + min);
 }
 
 module.exports.getRandomLine = function () {
@@ -18,7 +18,7 @@ module.exports.getRandomLine = function () {
 };
 
 module.exports.getLines = function () {
-  let index = randomInt(0, array.length-1);
+  let index = randomInt(0, array.length);
   switch(type){
     case "isp":
         console.log(index);
