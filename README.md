@@ -90,10 +90,6 @@ console.log("*********************************");
 console.log("The lines I love- " + myLine.line);
 console.log("Written by - " + myLine.author);
 console.log("From the book - " + myLine.book);
-
-console.log("The lines which motivates me- " + inspireLine.line);
-console.log("Written by - " + inspireLine.author);
-console.log("From the book - " + inspireLine.book);
 ```
 
 ## Want to contribute?
