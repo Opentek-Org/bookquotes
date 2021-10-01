@@ -1,7 +1,7 @@
 const testGetRandomLines = () => {
   const favline = require("../index.js");
 
-  var myLine = favline.getRandomLines();
+  var myLine = favline.getRandomLine();
 
   console.log("*********************************");
   console.log("WE ARE GRAMMAR_NAZIS\n");
