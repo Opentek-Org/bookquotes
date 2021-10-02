@@ -38,9 +38,7 @@ git pull upstream main
 git checkout -b <your_branch_name>
 ```
 
-
 8. Perfom your desired changes to the code base.
-
 
 [![giphy.gif](https://i.postimg.cc/Fs75yYVT/giphy.gif)](https://postimg.cc/jL0FKd9f)
 
