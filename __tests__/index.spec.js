@@ -17,16 +17,16 @@ describe("testing all exposed functions", () => {
       testGetRandomLines();
     }).not.toThrow();
   });
- 
+
   test("getRandomLines(<typeCode>) function returns no error", () => {
     expect(() => {
-      testGetRandomLinesType('isp');
+      testGetRandomLinesType("isp");
     }).not.toThrow();
   });
 
-test("getLines(<typeCode>) function returns no error", () => {
+  test("getLines(<typeCode>) function returns no error", () => {
     expect(() => {
-      testGetLinesType('isp');
+      testGetLinesType("isp");
     }).not.toThrow();
   });
 });

@@ -8,29 +8,29 @@ function randomInt(min, max) {
 }
 
 module.exports.getRandomLine = function (type) {
-   let index = randomInt(0, array.length);
-   switch(type){
-    case 'isp' : 
-        index = randomInt(0, inspireArray.length);
-        return inspireArray[index].line;
+  let index = randomInt(0, array.length);
+  switch (type) {
+    case "isp":
+      index = randomInt(0, inspireArray.length);
+      return inspireArray[index].line;
     default:
-        return array[index].line;    
+      return array[index].line;
   }
 };
 
 module.exports.getLines = function (type) {
   let index = randomInt(0, array.length);
-  switch(type){
+  switch (type) {
     case "isp":
-        index = randomInt(0, inspireArray.length);
-        favline.line = inspireArray[index].line;
-        favline.book = inspireArray[index].book;
-        favline.author = inspireArray[index].author;
-        return favline;
+      index = randomInt(0, inspireArray.length);
+      favline.line = inspireArray[index].line;
+      favline.book = inspireArray[index].book;
+      favline.author = inspireArray[index].author;
+      return favline;
     default:
-        favline.line = array[index].line;
-        favline.book = array[index].book;
-        favline.author = array[index].author;    
-        return favline;
+      favline.line = array[index].line;
+      favline.book = array[index].book;
+      favline.author = array[index].author;
+      return favline;
   }
 };

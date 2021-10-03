@@ -58,22 +58,21 @@ console.log(Line.getRandomLine()); // generates a single line
 console.log(Line.getLines()); // generates an object having a line, name of book and author.
 ```
 
-- **_getRandomLine(__typeCode__)_** method returns a specific **type** line.
+- **_getRandomLine(**typeCode**)_** method returns a specific **type** line.
 
 ```js
-const Line = require('bookquotes');
+const Line = require("bookquotes");
 
-console.log(Line.getRandomLine('isp')); // for inspire quote 
+console.log(Line.getRandomLine("isp")); // for inspire quote
 
-console.log(Line.getLine('isp'));
+console.log(Line.getLine("isp"));
 ```
 
 - **_Type codes_**
 
-     ~~~
-     'isp' = inspire
-     ~~~
-
+  ```
+  'isp' = inspire
+  ```
 
 - **_testing_** the package!
 
