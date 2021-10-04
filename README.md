@@ -1,10 +1,15 @@
+![bookquotes](https://socialify.git.ci/Opentek-Org/bookquotes/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
+
 # bookquotes
 
 [![NPM VERSION](http://img.shields.io/npm/v/bookquotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/bookquotes) [![GitHub license](https://img.shields.io/github/license/Opentek-Org/bookquotes.svg?style=flat&logo=github)](https://github.com/Opentek-Org/bookquotes/blob/main/LICENSE) [![NPM MODULE](http://img.shields.io/badge/bookquotes-orange.svg?style=flat&logo=node.js)](https://github.com/Opentek-Org/bookquotes) [![npm collaborators](https://img.shields.io/npm/collaborators/bookquotes.svg?logo=npm)](https://www.npmjs.com/package/bookquotes) [![GitHub issues](https://img.shields.io/github/issues/Opentek-Org/bookquotes.svg?logo=github)](https://www.npmjs.com/package/bookquotes)
 
-#### A simple [NPM](https://www.npmjs.com/package/bookquotes) Package which returns random **Lines** from people's favorite book with names of the **author** as well as the **book** . It provides great and aesthetic quotes to display in your application.
+#### A simple [NPM](https://www.npmjs.com/package/bookquotes) Package which returns
 
-#### If you like to read books or literature this [package](https://opentek-org.github.io/bookquotes/) is for you!
+- random **Lines** from people's favorite book with names of the **author** as well as the **book** . It provides great and aesthetic quotes to display in your application.
+- random **inspirational quotes**. Get your daily quote and stay motivated!
+
+#### If you like to read books, literature and want to stay motivated and inspired, this [package](https://opentek-org.github.io/bookquotes/) is for you!
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Opentek-Org/bookquotes.svg?logo=github&style=social)](https://www.npmjs.com/package/bookquotes) [![npm](https://img.shields.io/npm/dy/bookquotes.svg?logo=npm&style=social)](https://www.npmjs.com/package/bookquotes) [![GitHub top language](https://img.shields.io/github/languages/top/Opentek-Org/bookquotes.svg?logo=javascript&logoColor=yellow&style=social)]()
 
@@ -58,21 +63,27 @@ console.log(Line.getRandomLine()); // generates a single line
 console.log(Line.getLines()); // generates an object having a line, name of book and author.
 ```
 
-- **_testing_** the package!
+- **\_getRandomLine(**typeCode**)\_** method returns a specific **type** line.
 
 ```js
-const favline = require("./index.js");
+const Line = require("bookquotes");
 
-var myLine = favline.getLines();
+console.log(Line.getRandomLine("isp")); // for inspiring quote
 
-console.log("*********************************");
-console.log("WE ARE GRAMMAR_NAZIS\n");
-console.log("*********************************");
-
-console.log("The lines I love- " + myLine.line);
-console.log("Written by - " + myLine.author);
-console.log("From the book - " + myLine.book);
+console.log(Line.getLine("isp"));
 ```
+
+- **_Type codes_**
+
+  ```
+  'isp' = inspire
+  ```
+
+## Testing the package!
+
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+
+All the tests are in [tests](https://github.com/Opentek-Org/bookquotes/tree/main/__tests__) folder.
 
 ## Want to contribute?
 
@@ -82,7 +93,7 @@ console.log("From the book - " + myLine.book);
 
 **[Add Lines from your Favorite Books](https://github.com/Opentek-Org/bookquotes/issues/1)** (Recommended for beginners)
 
-### Follow the JSON format and add your content in [data](https://github.com/Opentek-Org/bookquotes/blob/main/data/data.json) file.
+### Follow the JSON format and add your content(your favorite line from a book or an inspirational quote) in [data](https://github.com/Opentek-Org/bookquotes/tree/main/data) file.
 
 > Please check HOW TO CONTRIBUTE **[here](CONTRIBUTING.md)**!
 
