@@ -17,4 +17,3 @@ source:
 #Add 'data' label to anything changed within data folder
 data:
 - data/*
-
