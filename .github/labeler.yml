@@ -1,1 +1,20 @@
+# Add 'repo' label to any root file changes
+repo:
+- '*'
+
+# Add 'workflows' label to any change within the 'github/workflows' folder
+workflows:
+- .github/workflows/*
+
+# Add 'test' label to any change to tests files within the _tests_ folder
+test:
+- _tests_/*
+
+# Add 'source' label to any change to index.js
+source:
+- index.js
+
+#Add 'data' label to anything changed within data folder
+data:
+- data/*
 
