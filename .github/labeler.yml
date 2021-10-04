@@ -1,6 +1,6 @@
 #Add 'hacktoberfest' for any changes in files of the project
-hacktoberfest:
-- data/*
+hacktoberfest: 
+  - data/*
 
 #Add 'data' label to anything changed within data folder
 data:
