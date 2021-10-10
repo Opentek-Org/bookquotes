@@ -24,10 +24,12 @@
     "book": "Abhorsen",
     "author": "Garth Nix"
   },
+  {
     "line": "A mind needs books like a sword needs a whetstone, if it is to keep its edge.",
     "book": "A Game of Thrones: A Song of Ice and Fire",
     "author": "George R. R. Martin"
   },
+
   {
     "line": "Whatever our souls are made of, his and mine are the same.",
     "book": "After We Collided",
@@ -164,15 +166,17 @@
     "book": "The Hate U Give",
     "author": "Angie Thomas"
   },
-  { 
+  {
     "line": "Great dreamers' dreams are never fulfilled, they are always transcended.",
     "book": "The Monk who sold his Ferrari",
     "author": "Alfred Lord Whitehead"
   },
+  {
     "line": "Stupidity is one of the two things we see most clearly in retrospect. The other is missed chances.",
     "book": "11/23/63",
     "author": "Stephen King"
   },
+
   {
     "line": "Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.",
     "book": "The Fault in Our Stars",
@@ -196,7 +200,7 @@
   {
     "line": "The moment you doubt whether you can fly, you cease for ever to be able to do it.",
     "book": "Peter Pan",
-    "author": "J.M. Barrie",
+    "author": "J.M. Barrie"
   },
   {
     "line": "It matters not what someone is born, but what they grow to be.",
@@ -207,5 +211,15 @@
     "line": "Whatever our souls are made of, his and mine are the same.",
     "book": "Wuthering Heights",
     "author": "Emily Bronte"
+  },
+  {
+    "line": "I am not afraid of storms, for I am learning how to sail my ship",
+    "book": "Little Women",
+    "author": "Louisa May Alcott"
+  },
+  {
+    "line": "It matters not what someone is born, but what they grow to be.",
+    "book": "Harry Potter and the Goblet of Fire'",
+    "author": "J.K. Rowling"
   }
 ]
