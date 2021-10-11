@@ -85,6 +85,11 @@ console.log(Line.getLine("isp"));
 
 All the tests are in [tests](https://github.com/Opentek-Org/bookquotes/tree/main/__tests__) folder.
 
+Run tests using ```npm test```
+
+### Tip -
+If you get an syntax error while running ```npm test``` then kindly check the ```data.json``` file if it is properly formatted. Then it should work fine.
+
 ## Want to contribute?
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vinitshahdeo) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Opentek-Org/bookquotes/pulls)
