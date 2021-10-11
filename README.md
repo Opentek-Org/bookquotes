@@ -44,11 +44,14 @@ $ npm install bookquotes
 [![usage](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://github.com/Opentek-Org/bookquotes/)
 
 - **_getLines()_** method returns an object containing **_line_** , **_book_**, and **_author_**.
+
 ```js
 const Line = require("bookquotes");
 console.log(Line.getLines()); // generates an object having a line, name of book and author.
 ```
+
 Output:
+
 ```
 {
   line: 'I had the epiphany that laughter was light, and light was laughter, and that this was the secret of the universe.',
@@ -56,17 +59,22 @@ Output:
   author: 'The Goldfinch'
 }
 ```
+
 - **_getLines(*typeCode*)_** method returns an object containing **_quote_** and **_author_**.
+
 ```js
 const Line = require("bookquotes");
 console.log(Line.getLines("isp")); // generates an object having a line, name of book and author.
 ```
+
 - **_Type codes_**
 
   ```
   'isp' = inspire
   ```
-Output:
+
+  Output:
+
 ```
 {
   quote: 'When you start to love yourself for the first time, your scars start to look a lot more like beauty marks.',
@@ -75,29 +83,37 @@ Output:
 ```
 
 - **_getRandomLine()_** method returns a random **aesthetic** line!
+
 ```js
 const Line = require("bookquotes");
 console.log(Line.getRandomLine()); // generates a single aesthetic line
 ```
+
 Output:
+
 ```
 All we have to decide is what to do with the time that is given us.
 ```
 
 - **_getRandomLine(*typeCode*)_** method returns a specific **type** random aesthetic line.
+
 ```js
 const Line = require("bookquotes");
-console.log(Line.getRandomLine("isp")); 
+console.log(Line.getRandomLine("isp"));
 ```
+
 - **_Type codes_**
 
 ```
 'isp' = inspire
 ```
+
 Output:
+
 ```
 When you start to love yourself for the first time, your scars start to look a lot more like beauty marks.
 ```
+
 ## Testing the package!
 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
@@ -105,11 +121,13 @@ When you start to love yourself for the first time, your scars start to look a l
 All the tests are in [tests](https://github.com/Opentek-Org/bookquotes/tree/main/__tests__) folder.
 
 - Install Jest using
+
 ```
 npm install --save-dev jest
 ```
 
-- Run the tests using 
+- Run the tests using
+
 ```
 npm test
 ```
@@ -133,5 +151,3 @@ npm test
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 Inspired by [this](https://github.com/vinitshahdeo/inspirational-quotes) project
-
-
