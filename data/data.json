@@ -216,5 +216,10 @@
     "line": "I am not afraid of storms, for I am learning how to sail my ship",
     "book": "Little Women",
     "author": "Louisa May Alcott"
+  },
+  {
+    "line": "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.",
+    "book": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
   }
 ]
