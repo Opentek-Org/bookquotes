@@ -23,7 +23,7 @@ module.exports.getLines = function (type) {
   switch (type) {
     case "isp":
       index = randomInt(0, inspireArray.length);
-      favline.line = inspireArray[index].quote;
+      favline.quote = inspireArray[index].quote;
       favline.author = inspireArray[index].author;
       return favline;
     default:
