@@ -1,3 +1,5 @@
+<!-- @format -->
+
 ![bookquotes](https://socialify.git.ci/Opentek-Org/bookquotes/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark)
 
 # bookquotes
@@ -43,6 +45,7 @@ $ npm install bookquotes
 
 [![usage](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://github.com/Opentek-Org/bookquotes/)
 
+- **_getLines()_** method returns an object containing **_line_** , **_book_**, and **_author_**.
 - **_getLines()_** method returns an object containing **_line_** , **_book_**, and **_author_**.
 
 ```json
