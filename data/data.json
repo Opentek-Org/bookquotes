@@ -29,6 +29,7 @@
     "book": "A Game of Thrones: A Song of Ice and Fire",
     "author": "George R. R. Martin"
   },
+
   {
     "line": "Whatever our souls are made of, his and mine are the same.",
     "book": "After We Collided",
@@ -165,7 +166,7 @@
     "book": "The Hate U Give",
     "author": "Angie Thomas"
   },
-  { 
+  {
     "line": "Great dreamers' dreams are never fulfilled, they are always transcended.",
     "book": "The Monk who sold his Ferrari",
     "author": "Alfred Lord Whitehead"
@@ -175,6 +176,7 @@
     "book": "11/23/63",
     "author": "Stephen King"
   },
+
   {
     "line": "Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.",
     "book": "The Fault in Our Stars",
@@ -209,5 +211,10 @@
     "line": "Whatever our souls are made of, his and mine are the same.",
     "book": "Wuthering Heights",
     "author": "Emily Bronte"
+  },
+  {
+    "line": "I am not afraid of storms, for I am learning how to sail my ship",
+    "book": "Little Women",
+    "author": "Louisa May Alcott"
   }
 ]
