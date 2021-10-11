@@ -1,6 +1,6 @@
 {
   "name": "bookquotes",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Collection of people's favorite quotes from books around the world",
   "main": "index.js",
   "scripts": {
