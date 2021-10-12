@@ -1,22 +1,23 @@
 [
   {
-    "line": "The moment you doubt whether you can fly, you cease forever to be able to do it.",
-    "book": "Per Pan",
+    "quote": "The moment you doubt whether you can fly, you cease forever to be able to do it.",
     "author": "J.M. Barrie"
   },
   {
-    "line": "Time you enjoy wasting is not wasted time.",
-    "book": "Phrynette Married",
+    "quote": "Time you enjoy wasting is not wasted time.",
     "author": "Marthe Troly-Curtin"
   },
   {
-    "line": "When you can’t find someone to follow, you have to find a way to lead by example.",
-    "book": "Furthermore",
+    "quote": "When you can’t find someone to follow, you have to find a way to lead by example.",
     "author": "Tahereh Mafi"
   },
   {
-    "line": "When you start to love yourself for the first time, your scars start to look a lot more like beauty marks.",
-    "book": "Sissy",
+    "quote": "When you start to love yourself for the first time, your scars start to look a lot more like beauty marks.",
     "author": "Jacob Tobia"
+  },
+  {
+    "line": "All we have to decide is what to do with the time that is given to us.",
+    "book": "The Fellowship of the Ring",
+    "author": "J.R.R Tolkien"
   }
 ]
