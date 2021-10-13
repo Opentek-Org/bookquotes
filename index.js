@@ -12,7 +12,7 @@ module.exports.getRandomLine = function (type) {
   switch (type) {
     case "isp":
       index = randomInt(0, inspireArray.length);
-      return inspireArray[index].line;
+      return inspireArray[index].quote;
     default:
       return array[index].line;
   }
@@ -23,8 +23,7 @@ module.exports.getLines = function (type) {
   switch (type) {
     case "isp":
       index = randomInt(0, inspireArray.length);
-      favline.line = inspireArray[index].line;
-      favline.book = inspireArray[index].book;
+      favline.quote = inspireArray[index].quote;
       favline.author = inspireArray[index].author;
       return favline;
     default:
