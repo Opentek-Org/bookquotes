@@ -231,11 +231,15 @@
     "line": "Real courage is when you know you’re licked before you begin, but you begin anyway and see it through no matter what.",
     "book": "To Kill a Mockingbird",
     "author": "Harper Lee"
-
+  },
+  {
+    "line": "Whatever our souls are made of, his and mine are the same.",
+    "book": "Wuthering Heights",
+    "author": "Emily Brontë"
   },
   {
     "line": "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.",
     "book": "The Lord of the Rings",
     "author": "J.R.R. Tolkien"
-  }
+   }
 ]
