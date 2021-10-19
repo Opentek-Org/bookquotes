@@ -29,7 +29,6 @@
     "book": "A Game of Thrones: A Song of Ice and Fire",
     "author": "George R. R. Martin"
   },
-
   {
     "line": "Whatever our souls are made of, his and mine are the same.",
     "book": "After We Collided",
@@ -50,7 +49,6 @@
     "book": "Hamlet",
     "author": "William Shakespeare"
   },
-
   {
     "line": "It moves at its own measured pace, for it has no reason to hurry. Tomorrow will come in its own good time.",
     "book": "The Sky is Falling",
@@ -176,7 +174,6 @@
     "book": "11/23/63",
     "author": "Stephen King"
   },
-
   {
     "line": "Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.",
     "book": "The Fault in Our Stars",
@@ -216,5 +213,10 @@
     "line": "I am not afraid of storms, for I am learning how to sail my ship",
     "book": "Little Women",
     "author": "Louisa May Alcott"
+  },
+  {
+    "line": "Where there is love, there is bound to be heartache.",
+    "book": "The Forty Rules of Love",
+    "author": "Elif Shafak"
   }
 ]
