@@ -50,7 +50,6 @@
     "book": "Hamlet",
     "author": "William Shakespeare"
   },
-
   {
     "line": "It moves at its own measured pace, for it has no reason to hurry. Tomorrow will come in its own good time.",
     "book": "The Sky is Falling",
@@ -218,6 +217,7 @@
     "author": "Louisa May Alcott"
   },
   {
+
     "line": "There are years that ask questions and years that answer.",
     "book": "Their Eyes Were Watching God",
     "author": "Zora Neale Hurston"
