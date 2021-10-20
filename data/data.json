@@ -29,6 +29,7 @@
     "book": "A Game of Thrones: A Song of Ice and Fire",
     "author": "George R. R. Martin"
   },
+
   {
     "line": "Whatever our souls are made of, his and mine are the same.",
     "book": "After We Collided",
@@ -174,6 +175,7 @@
     "book": "11/23/63",
     "author": "Stephen King"
   },
+
   {
     "line": "Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book.",
     "book": "The Fault in Our Stars",
@@ -215,8 +217,34 @@
     "author": "Louisa May Alcott"
   },
   {
-    "line": "Where there is love, there is bound to be heartache.",
-    "book": "The Forty Rules of Love",
-    "author": "Elif Shafak"
+
+    "line": "There are years that ask questions and years that answer.",
+    "book": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston"
+  },
+  {
+    "line": "There is some good in this world and it’s worth fighting for.",
+    "book": "The Two Towers",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "line": "Real courage is when you know you’re licked before you begin, but you begin anyway and see it through no matter what.",
+    "book": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "line": "Whatever our souls are made of, his and mine are the same.",
+    "book": "Wuthering Heights",
+    "author": "Emily Brontë"
+  },
+  {
+    "line": "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.",
+    "book": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "line": "The one thing that doesn’t abide by majority rule is a person’s conscience.",
+    "book": "To Kill a Mockingbird",
+    "author": "Ashley Ross"
   }
 ]
