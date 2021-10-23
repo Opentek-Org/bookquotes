@@ -241,9 +241,17 @@
     "book": "The Lord of the Rings",
     "author": "J.R.R. Tolkien"
   },
+
+   {  
+    "line":"Be yourself and people will like you.",
+    "book":"Diary of a Wimpy Kid",
+    "author":"Jeff Kinney"
+ }
+
   {
     "line": "The one thing that doesn’t abide by majority rule is a person’s conscience.",
     "book": "To Kill a Mockingbird",
     "author": "Ashley Ross"
   }
+
 ]
