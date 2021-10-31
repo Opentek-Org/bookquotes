@@ -49,5 +49,25 @@
     "line":"Be yourself and people will like you.",
     "book":"Diary of a Wimpy Kid",
     "author":"Jeff Kinney"
- }
+ },
+  {
+    "line": "Hoping for the best,prepared for the worst, and unsurprised by anything in between.",
+    "book": "I know Why the Caged Bird Sings",
+    "author": "Maya Angelou"
+  },
+  {
+    "line": "We all require devotion to something more than ourselves for our lives to be endurable.",
+    "book": "Being Mortal",
+    "author": "Atul Gawande"
+  },
+  {
+    "line": "Just because your version of normal isn't the same as someone else's version doesn't mean that there's anything wrong with you.",
+    "book": "The Terrible Thing That Happened to Barnaby Brocket",
+    "author": "John Boyne"
+  },
+  {
+    "line": "You are your best thing.",
+    "book": "Beloved ",
+    "author": "Toni Morrison"
+  }
 ]
