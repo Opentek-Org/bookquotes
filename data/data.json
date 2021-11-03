@@ -50,7 +50,6 @@
     "book": "Hamlet",
     "author": "William Shakespeare"
   },
-
   {
     "line": "It moves at its own measured pace, for it has no reason to hurry. Tomorrow will come in its own good time.",
     "book": "The Sky is Falling",
@@ -216,5 +215,67 @@
     "line": "I am not afraid of storms, for I am learning how to sail my ship",
     "book": "Little Women",
     "author": "Louisa May Alcott"
+  },
+  {
+    "line": "There are years that ask questions and years that answer.",
+    "book": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston"
+  },
+  {
+    "line": "There is some good in this world and it’s worth fighting for.",
+    "book": "The Two Towers",
+    "author": "J.R.R. Tolkien"
+  },
+  {
+    "line": "Real courage is when you know you’re licked before you begin, but you begin anyway and see it through no matter what.",
+    "book": "To Kill a Mockingbird",
+    "author": "Harper Lee"
+  },
+  {
+    "line": "Whatever our souls are made of, his and mine are the same.",
+    "book": "Wuthering Heights",
+    "author": "Emily Brontë"
+  },
+  {
+    "line": "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.",
+    "book": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien"
+  },
+
+  {
+    "line": "Be yourself and people will like you.",
+    "book": "Diary of a Wimpy Kid",
+    "author": "Jeff Kinney"
+  },
+
+  {
+    "line": "The one thing that doesn’t abide by majority rule is a person’s conscience.",
+    "book": "To Kill a Mockingbird",
+    "author": "Ashley Ross"
+  },
+  {
+    "line": "Sitting around miserable all day won't make you any happier.",
+    "book": "The Boy in the Striped Pyjamas",
+    "author": "John Boyne"
+  },
+  {
+    "line": "We need never be ashamed of our tears.",
+    "book": "Great Expectations",
+    "author": "Charles Dickens"
+  },
+  {
+    "line": "I don't understand it any more than you do, but one thing I've learned is that you don't have to understand things for them to be.",
+    "book": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle"
+  },
+  {
+    "line": "There is nothing sweeter in this sad world than the sound of someone you love calling your name.",
+    "book": "The Tale of Despereaux",
+    "author": "Kate DiCamillo"
+  },
+  {
+    "line": "It's the possibility of having a dream come true that makes life interesting.",
+    "book": "The Alchemist",
+    "author": "Paulo Coelho"
   }
 ]
